@@ -18,7 +18,7 @@ h1 { /* Header 1 */
 <p align="center">
 <img src="/assets/images/labPic.jpg" width="40%"/>
 </p>
-
 Hello! I am a postdoctoral fellow in [CCS lab](https://ccs-lab.github.io/) at Seoul National University.
 As a cognitive scientist, I employ a variety of computational modeling and machine learning techniques to understand individual differences in cognitive traits, 
 with the goal of gaining insight into central theoretical questions about human cognition.
+<br/><br/>
