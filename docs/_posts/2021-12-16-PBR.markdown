@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "New paper in Psychonomic Bulletin & Review!"
+date:   2021-12-16 11:10:30 +0900
+categories: jekyll update
+---
+My new paper,
+"A number-line task with a Bayesian active learning algorithm provides insights into the development of non-symbolic number estimation" has been published in _Psychonomic Bulletin & Review_ ([link to the paper](https://link.springer.com/article/10.3758/s13423-021-02041-5)).

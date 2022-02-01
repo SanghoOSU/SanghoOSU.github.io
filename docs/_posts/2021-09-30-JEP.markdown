@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "New paper in JEP:General!"
+date:   2021-09-30 11:10:30 +0900
+categories: jekyll update
+---
+My new paper,
+"Individual differences in selective attention reveal the nonmonotonicity of visual spatial attention and its association with working memory capacity",
+is now available online in _Journal of Experimental Psychology: General_ ([link to the paper](https://psycnet.apa.org/record/2021-87838-001)).
