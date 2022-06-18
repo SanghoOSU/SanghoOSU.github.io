@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "New research grant from NRF as the PI!"
+date:   2022-6-1 11:10:30 +0900
+categories: jekyll update
+---
+NRF(National Research Foundation of Korea) has accepted my grant proposal,
+"Developing real-time tasks and artificial intelligence frameworks for investigating individual differences in 
+decision making and their neural mechanisms".
+
+I will receive 210 million KRW (about 175,000 USD) for three years (2022/6/1 - 2025/5/31) from this grant.

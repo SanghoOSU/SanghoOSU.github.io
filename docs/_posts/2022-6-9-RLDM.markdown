@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Presentation at RLDM 2022"
+date:   2022-6-9 11:10:30 +0900
+categories: jekyll update
+---
+I presented a poster,
+"Learning Impulsive Behaviors in a Real-Time Task Using Inverse Reinforcement Learning",
+at RLDM 2022 (6/8/2022-6/11/2022, Brown University).
