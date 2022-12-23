@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "New paper in Biological Psychiatry: CNN!"
+date:   2022-12-17 11:10:30 +0900
+categories: jekyll update
+---
+My new paper,
+"Adaptive design optimization as a promising tool for reliable and efficient computational fingerprinting",
+is now available online in _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging_ ([link to the paper](https://www.sciencedirect.com/science/article/abs/pii/S245190222200338X?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=270905411&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM327306&utm_medium=email&utm_source=AC_)).
