@@ -19,7 +19,7 @@ I build and evaluate Bayesian cognitive models to provide parameters that would 
 
 <h2>Publications</h2>
 
-**Lee, S. H.**, Song, M. S., Oh, M. H., Ahn, W. Y. (in revision) Bridging the gap between self-report and behavioral laboratory measures: A real-time driving task with inverse reinforcement learning.
+**Lee, S. H.**, Song, M. S., Oh, M. H., & Ahn, W. Y. (in revision) Bridging the gap between self-report and behavioral laboratory measures: A real-time driving task with inverse reinforcement learning.
 <br/><br/>
 **Lee, S. H.**, & Pitt, M. A. (in revision). Implementation of an online spacing flanker task and evaluation of its test-retest reliability using measures of inhibitory control and the distribution of spatial attention.
 <br/><br/>
