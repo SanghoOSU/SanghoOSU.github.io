@@ -19,11 +19,17 @@ I build and evaluate Bayesian cognitive models to provide parameters that would 
 
 <h2>Publications</h2>
 
-**Lee, S. H.**, Kim, D., Opfer, J., Pitt, M. A., & Myung, J. I. (2021). A number-line task with 
-a Bayesian active learning algorithm provides insights into the development of non-symbolic number estimation. _Psychonomic Bulletin & Review_, 1-14.
+**Lee, S. H., Song, M. S., Oh, M. H., Ahn, W. Y. (in revision) Bridging the gap between self-report and behavioral laboratory measures: A real-time driving task with inverse reinforcement learning.
 <br/><br/>
-**Lee, S. H.**, & Pitt, M. A. (2021). Individual differences in selective attention reveal the non-monotonicity of visual spatial attention and its association with working memory capacity. 
-_Journal of Experimental Psychology: General_, Advance online publication
+**Lee, S. H.**, & Pitt, M. A. (in revision). Implementation of an online spacing flanker task and evaluation of its test-retest reliability using measures of inhibitory control and the distribution of spatial attention.
+<br/><br/>
+Kwon, M, **Lee, S. H.**, Ahn, W. Y. (2023). Adaptive design optimization as a promising tool for reliable and efficient computational fingerprinting. _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 8_(8), 798-804.
+<br/><br/>
+**Lee, S. H.**, Kim, D., Opfer, J., Pitt, M. A., & Myung, J. I. (2022). A number-line task with 
+a Bayesian active learning algorithm provides insights into the development of non-symbolic number estimation. _Psychonomic Bulletin & Review, 29_(3), 1-14.
+<br/><br/>
+**Lee, S. H.**, & Pitt, M. A. (2022). Individual differences in selective attention reveal the non-monotonicity of visual spatial attention and its association with working memory capacity. 
+_Journal of Experimental Psychology: General, 151_(4), 749-762.
 <br/><br/>
 **Lee, S. H.**, Pitt, M. A., & Myung, J. I. (2018). Computational modeling of cognitive control 
 in a flanker task. _Proceedings of the 40th Annual Meeting of the Cognitive Science Society_, 
