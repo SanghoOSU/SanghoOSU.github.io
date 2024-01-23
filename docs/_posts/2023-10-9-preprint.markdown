@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New preprint paper"
+title:  "New preprint paper (Dec 2023 Update: now in press in Psychological Science!)"
 date:   2023-7-26 11:10:30 +0900
 categories: jekyll update
 ---
