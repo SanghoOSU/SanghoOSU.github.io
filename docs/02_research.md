@@ -19,7 +19,7 @@ I build and evaluate Bayesian cognitive models to provide parameters that would 
 
 <h2>Publications</h2>
 
-**Lee, S. H.**, Song, M. S., Oh, M. H., & Ahn, W. Y. (2024) Bridging the gap between self-report and behavioral laboratory measures: A real-time driving task with inverse reinforcement learning. _Psychological Science_, Online first publication ([link to the paper](https://journals.sagepub.com/doi/epub/10.1177/09567976241228503))
+**Lee, S. H.**, Song, M. S., Oh, M. H., & Ahn, W. Y. (2024) Bridging the gap between self-report and behavioral laboratory measures: A real-time driving task with inverse reinforcement learning. _Psychological Science_, online first publication ([link to the paper](https://journals.sagepub.com/doi/epub/10.1177/09567976241228503))
 <br/><br/>
 **Lee, S. H.**, & Pitt, M. A. (2024). Implementation of an online spacing flanker task and evaluation of its test-retest reliability using measures of inhibitory control and the distribution of spatial attention. _Behavior Research Methods_, 1-12
 <br/><br/>
