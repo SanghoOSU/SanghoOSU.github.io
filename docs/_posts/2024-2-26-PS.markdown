@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "New paper in Psychological Science!"
+date:   2024-2-26 11:10:30 +0900
+categories: jekyll update
+---
+My new paper,
+"Bridging the gap between self-report and behavioral laboratory measures: A real-time driving task with inverse reinforcement learning",
+is now available online in _Psychological Science_ ([link to the paper](https://journals.sagepub.com/doi/epub/10.1177/09567976241228503)).
