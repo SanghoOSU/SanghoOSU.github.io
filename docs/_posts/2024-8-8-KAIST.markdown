@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "New position (from Sep 2024): Assistant professor at KAIST"
+date:   2024-8-8 11:10:30 +0900
+categories: jekyll update
+---
+From September 2024, I will work at Korea Advanced Institute of Science & Technology (KAIST) as an assistant professor
+in the "school of digital humanities and computational social sciences" (jointly affiliated with the department of "brain and cognitive sciences").
