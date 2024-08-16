@@ -13,9 +13,9 @@ h1 { /* Header 1 */
 }
 </style>
 <h2>Overview</h2>
-My research explores how people differ in cognitive traits such as attention, working memory, and numerical cognition. Human behaviors in psychological tasks typically show general trends at a population level yet differ greatly at an individual level. Exploring individual differences provides additional information about psychological constructs that underlie human behaviors.
+My research explores how people differ in psychological traits such as attention, impulsivity, working memory, and reward processing. Human behaviors in psychological tasks typically show general trends at a population level yet differ greatly at an individual level. Exploring individual differences provides additional information about psychological constructs that underlie human behaviors.
 
-I build and evaluate Bayesian cognitive models to provide parameters that would capture relevant properties of complex data, facilitating the analysis of individual differences. I also use machine-learning models based on Gaussian processes and deep neural network to identify individual differences in data-driven manners, and to address theoretical questions in novel ways.
+I build and evaluate Bayesian cognitive models to provide parameters that would capture relevant properties of complex data, facilitating the analysis of individual differences. I also use artificial intelligence models based on Gaussian processes and deep neural networks to identify individual differences in data-driven manners, and to address theoretical questions in novel ways.
 
 <h2>Publications</h2>
 
