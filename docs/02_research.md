@@ -13,13 +13,13 @@ h1 { /* Header 1 */
 }
 </style>
 <h2>Overview</h2>
-My research explores how people differ in cognitive traits such as attention, working memory, and numerical cognition. Human behaviors in psychological tasks typically show general trends at a population level yet differ greatly at an individual level. Exploring individual differences provides additional information about psychological constructs that underlie human behaviors.
+My research explores how people differ in psychological traits such as attention, impulsivity, working memory, and reward processing. Human behaviors in psychological tasks typically show general trends at a population level yet differ greatly at an individual level. Exploring individual differences provides additional information about psychological constructs that underlie human behaviors.
 
-I build and evaluate Bayesian cognitive models to provide parameters that would capture relevant properties of complex data, facilitating the analysis of individual differences. I also use machine-learning models based on Gaussian processes and deep neural network to identify individual differences in data-driven manners, and to address theoretical questions in novel ways.
+I build and evaluate Bayesian cognitive models to provide parameters that would capture relevant properties of complex data, facilitating the analysis of individual differences. I also use artificial intelligence models based on Gaussian processes and deep neural networks to identify individual differences in data-driven manners, and to address theoretical questions in novel ways.
 
 <h2>Publications</h2>
 
-**Lee, S. H.**, Song, M. S., Oh, M. H., & Ahn, W. Y. (2024) Bridging the gap between self-report and behavioral laboratory measures: A real-time driving task with inverse reinforcement learning. _Psychological Science_, online first publication ([link to the paper](https://journals.sagepub.com/doi/epub/10.1177/09567976241228503))
+**Lee, S. H.**, Song, M. S., Oh, M. H., & Ahn, W. Y. (2024) Bridging the gap between self-report and behavioral laboratory measures: A real-time driving task with inverse reinforcement learning. _Psychological Science, 35_(4), 345-357 ([link to the paper](https://journals.sagepub.com/doi/epub/10.1177/09567976241228503))
 <br/><br/>
 **Lee, S. H.**, & Pitt, M. A. (2024). Implementation of an online spacing flanker task and evaluation of its test-retest reliability using measures of inhibitory control and the distribution of spatial attention. _Behavior Research Methods_, 1-12
 <br/><br/>
