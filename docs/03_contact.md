@@ -14,11 +14,10 @@ h1 { /* Header 1 */
 </style>
 <h3>Sang Ho Lee</h3>
 
-Computational Clinical Science Laboratory<br/>
-Room M309<br/>
-Building#16, 1 Gwanak-ro, Gwanak-gu<br/>
-Department of Psychology<br/>
-Seoul National University<br/>
-Seoul, Korea 08826<br/>
+Room 1311<br/>
+Building N4, 291 Daehak-ro, Yuseong District<br/>
+School of Digital Humanities and Computational Social Sciences<br/>
+KAIST<br/>
+Daejeon, Korea 34141<br/>
 <br/>
-Email: sh.lee.11@snu.ac.kr
+Email: sangholee@kaist.ac.kr
