@@ -18,7 +18,7 @@ h1 { /* Header 1 */
 <p align="center">
 <img src="/assets/images/labPic.jpg" width="40%"/>
 </p>
-Hello! I am an assistant professor in the School of Digital Humanities and Computational Social Sciences at KAIST.
+Hello! I am an assistant professor in the School of Digital Humanities and Computational Social Sciences at KAIST([lab website](https://sites.google.com/view/kaist-pai/home)).
 My research employs a variety of computational modeling and machine learning techniques to understand individual differences in human behaviors and brain activity,
 with a special interest in developing artificial intelligence models that reflect psychological traits of humans.
 <br/><br/>
