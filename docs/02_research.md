@@ -12,6 +12,9 @@ h1 { /* Header 1 */
   color: Black;
 }
 </style>
+
+<h2>[Lab website](https://sites.google.com/view/kaist-pai/home)</h2>
+
 <h2>Overview</h2>
 My research explores how people differ in psychological traits such as attention, impulsivity, working memory, and reward processing. Human behaviors in psychological tasks typically show general trends at a population level yet differ greatly at an individual level. Exploring individual differences provides additional information about psychological constructs that underlie human behaviors.
 
